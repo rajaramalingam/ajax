@@ -1,0 +1,7 @@
+{
+	"Name" : "Raja Rajan",
+	"Age" : 21,
+	"City" : "Chennai",
+	"State" : "Tamil nadu",
+	"Country" : "India"
+}
